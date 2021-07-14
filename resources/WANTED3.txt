@@ -1,0 +1,3 @@
+gun
+walkieTalki
+computer
